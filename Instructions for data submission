@@ -1,5 +1,10 @@
-Scope: Any type of data on Rhododendron
-Format: please upload 1) required documentation (described below), 2) data and code files, 3) deviations from the standard data use agreement (example provided below). For each dataset, upload a single file, or create a new folder if there are multiple files for the same submission, using the name of the dataset as the file or folder title. 
+Scope: Any type of non-genetic data on Rhododendron. Genetics data should be submitted to GenBank.
+
+Format: Individual files should be less than 1MB, accepted file types include .csv, .txt, .R, .py
+If you have other file types or larger files, please contact Juliana Medeiros jmedeiros@holdenfg.org to discuss options for contributing to the data portal.
+
+For each dataset, upload a single file, or create a new folder if there are multiple files for the same submission, using the name of the dataset as the file or folder title. 
+Please upload 1) required documentation (described below), 2) data and code files, 3) deviations from the standard data use agreement (example provided below). 
 
 Required documentation:
 1) Metadata - All the information someone would need to understand how and why the data were collected.  
