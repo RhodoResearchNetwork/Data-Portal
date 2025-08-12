@@ -1,6 +1,12 @@
 Scope: Any type of non-genetic data on Rhododendron. Genetics data should be submitted to GenBank.
 
-Format: Individual files should be less than 1MB, accepted file types include .csv, .txt, .R, .py
+Types of submissions: 1) submit links to Rhododendron data housed in other locations on the internet, or 2) submit datasets to be stored directly in this data portal.
+
+Instructions for submitting links to data housed in other locations:
+Please make a new entry with the following information 1) title of the dataset, 2) brief description of the data, and 3) link to the location of the dataset.
+
+Instructions to submit datasets to be stored directly in this data portal:
+Data set Formats: Individual files should be less than 1MB, accepted file types include .csv, .txt, .R, .py
 If you have other file types or larger files, please contact Juliana Medeiros jmedeiros@holdenfg.org to discuss options for contributing to the data portal.
 
 For each dataset, upload a single file, or create a new folder if there are multiple files for the same submission, using the name of the dataset as the file or folder title. 
