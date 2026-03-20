@@ -1,3 +1,13 @@
+Data published in 
+Shetzer MK, SC Danielson, L Sack, C Scoffoni and JS Medeiros. 
+Environmental influences and coordination of Rhododendron carbon and water economics at leaf and species scales. 
+Functional Plant Biology https://doi.org/10.1071/FP25222
+
+Please see publication for methods
+Experiment 2 Species level
+
+
+
 Section,Species,species_mean_guard_cell_length,species_mean_guard_cell_width,species_mean_stomal_pore_length,species_mean_stomatal_density,species_mean_kleaf_summer,species_mean_vein_len,species_mean_SLA,species_mean_CN,species_se_guard_cell_length,species_se_guard_cell_width,species_se_stomal_pore_length,species_se_stomatal_density,species_se_kleaf_summer,species_se_vein_len,species_se_SLA,species_se_CN
 Pentanthera,arborescens,20.66675,14.08441667,9.914083333,124.6798576,4.07856289,1290.58,23.66,39.4,1.431699609,0.49997234,0.691357486,29.44855885,0.619185906,81.51,3.39,6.29
 Pentanthera,austrinum,20.39375,12.65275,10.62425,176.5100374,5.853085609,NA,20.16,37.57,NA,NA,NA,NA,1.666047624,NA,2.04,2.73
