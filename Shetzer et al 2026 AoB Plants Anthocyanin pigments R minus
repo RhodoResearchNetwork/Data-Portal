@@ -1,0 +1,47 @@
+URL: https://github.com/mkshetzer/2026_light_ms
+
+Publication: Miranda K Shetzer, Emma Farley, Juliana S Medeiros, Rhododendron minus seedlings achieve similar performance across light environments with anthocyanin accumulation and architectural adjustments under light stress, AoB PLANTS, Volume 18, Issue 1, February 2026, plag008, https://doi.org/10.1093/aobpla/plag008
+
+Contact information: Miranda Shetzer, miranda.shetzer@gmail.com
+
+Abstract: Influences of climate change on light availability are often overlooked; yet, understory species may experience shifts in irradiance as rising temperatures influence phenology and community composition. Light management is crucial for seedling success, and a whole-plant approach can help elucidate consequences of light on plant performance. Rhododendron minus is an evergreen shrub native to the Southeast United States that grows from rock outcrops to the understory. We conducted two experiments to unravel influences of light on plant function: (i) a manipulative greenhouse experiment on seedlings from a sun-exposed provenance examining pigments, plant architecture, and biomass patterns under shade, ambient, and supplemental light and (ii) a common garden experiment comparing pigments of mature plants from six provenances differing in latitude, elevation, climate, and solar radiation. We used multispectral imaging to
+estimate anthocyanin through the normalized difference anthocyanin index (NDAI) and chlorophyll through the normalized difference vegetation index (NDVI). Supplemental light seedlings had significantly higher NDAI than shade and ambient seedlings, but there was no significant treatment effect on NDVI or total biomass. Supplemental light seedlings also exhibited leaf movements that reduced projected surface area over time. This work highlights the importance of anthocyanins and plant architecture in allowing seedlings to maintain similar performance across light environments. In our common garden experiment, plants from northern, colder provenances had higher NDAI compared to warmer, southern provenances. We suggest that interactions between temperature and irradiance likely drive intraspecific variation in NDAI across the range, indicating that climate change could influence future pigment evolution.
+
+
+
+Table of Contents:
+
+Data 
+temp_growing.csv
+Units: Air temperature (F)
+
+HOBO-DATA-07-22-24.csv
+Units: PAR (mol m-2 s-1), temperature (C), relative humidity (RH, %), battery (batt, V – not used for analysis)
+
+R.minus_biomass_survival_light_data_CORRECTED2.csv
+Units: initial (initial plant area for change in projected area, cm2), final (final plant area for change in projected area, cm2), leaf area (total leaf area for SLA, cm2), root length (cm), mass for leaf, stem, and root (mg), PAR (mol m-2 s-1), survival (1 = alive, 0 = dead)
+Abbreviations: SL = supplemental light, AL = ambient light, SH = shade
+
+Greenhouse_multispectral_intensities_7-5-24.csv
+Column of interest: Mean (describes reflectance across the plant and is used for pigment index calculations)
+
+Common_garden_Results_Shetzer_10-24-25.csv
+Column of interest: Mean (describes reflectance across the leaf and is used for pigment index calculations)
+
+location_coords.csv
+Units: latitude and longitude (decimal degrees)
+
+Scripts
+Light_experiment_figures_analyses.R
+multispectral_imaging_device_script.py
+multispectral_imaging_ImageJ.ijm
+
+Note that publicly available environmental raster files need to be downloaded from WorldClim version 2.1 to conduct the full analysis for the common garden experiment.  
+
+
+
+
+
+
+
+
